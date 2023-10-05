@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Matheus!</h1>
 <h3 align="center">A Brazilian Arquitect and Front End Developer</h3>
 
-- 🌱 I’m currently learning **Fron End Development with React**
+- 🌱 I’m currently learning **Front End Development with React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matheus-couto-arq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-couto-arq" height="30" width="40" /></a>
 <a href="https://instagram.com/matehuscouto.arq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matehuscouto.arq" height="30" width="40" /></a>
-<a href="https://discord.gg/536227482781614086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="536227482781614086" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/536227482781614086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="536227482781614086" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
