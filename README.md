@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus!</h1>
-<h3 align="center">A Brazilian Arquitect and Front End Developer</h3>
+<h3 align="center">A Brazilian Arcuitect and Front End Developer</h3>
 
 - 🌱 I’m currently learning **Front End Development with React**
 
